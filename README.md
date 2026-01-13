@@ -1,8 +1,8 @@
 # Systemic Activation Analysis Pipeline
 
-This repository contains all scripts and resources used to generate the data and figures for the preprint:
+This repository contains all scripts and resources used to generate the data and figures for the publication:
 
-Payzin-Dogru et al. (2025). *"Adrenergic signaling coordinates distant and local responses to amputation in axolotl."* bioRxiv. [doi:10.1101/2021.12.29.474455](https://doi.org/10.1101/2021.12.29.474455)
+Payzin-Dogru et al. (2025). *"Adrenergic signaling coordinates distant and local responses to amputation in axolotl"* Cell. [doi:10.1016/j.cell.2025.09.025](https://doi.org/10.1016/j.cell.2025.09.025)
 
 
 ---
